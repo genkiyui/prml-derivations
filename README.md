@@ -3,9 +3,9 @@
 My derivations of the formulas that are hard to be derived by reading in *Pattern Recognition And Machine Learning*.
 
 - [x] Introduction
-- [ ] Probability Distributions (In progress)
+- [x] Probability Distributions
 - [x] Linear Models for Regression
-- [ ] Linear Models for Classification
+- [ ] Linear Models for Classification (In progress)
 - [ ] Neural Networks
 - [ ] Kernel Methods
 - [ ] Sparse Kernel Machines
