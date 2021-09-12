@@ -5,7 +5,7 @@ My derivations of the formulas that are hard to be derived by reading in *Patter
 - [x] Introduction
 - [x] Probability Distributions
 - [x] Linear Models for Regression
-- [ ] Linear Models for Classification (In progress)
+- [x] Linear Models for Classification
 - [ ] Neural Networks
 - [ ] Kernel Methods
 - [ ] Sparse Kernel Machines
