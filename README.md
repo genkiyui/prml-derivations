@@ -7,8 +7,8 @@ My derivations of the formulas that may not be easy to derive by reading in *Pat
 - [x] Linear Models for Regression
 - [x] Linear Models for Classification
 - [ ] ~Neural Networks~
-- [ ] Kernel Methods (In progress)
-- [ ] Sparse Kernel Machines
+- [x] Kernel Methods
+- [ ] Sparse Kernel Machines (In progress)
 - [ ] Graphical Models
 - [ ] Mixture Models and EM
 - [ ] Approximate Inference
