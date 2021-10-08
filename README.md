@@ -9,7 +9,7 @@ My derivations of the formulas that may not be easy to derive by reading in *Pat
 - [ ] ~Neural Networks~
 - [x] Kernel Methods
 - [x] Sparse Kernel Machines
-- [ ] Graphical Models
+- [ ] Graphical Models (In progress)
 - [ ] Mixture Models and EM
 - [ ] Approximate Inference
 - [ ] Sampling Methods
