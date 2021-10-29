@@ -11,7 +11,7 @@ My derivations of the formulas that may not be easy to derive by reading in *Pat
 - [x] Sparse Kernel Machines
 - [x] Graphical Models
 - [x] Mixture Models and EM
-- [x] Approximate Inference (In progress)
+- [ ] Approximate Inference (In progress)
 - [ ] Sampling Methods
 - [ ] Continuous Latent Variables
 - [ ] Sequential Data
