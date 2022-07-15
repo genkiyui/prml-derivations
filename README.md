@@ -1,6 +1,6 @@
 # prml-derivations
 
-My derivations of the formulas that may not be easy to derive by reading in *Pattern Recognition And Machine Learning*.
+My derivations of the formulas in *Pattern Recognition And Machine Learning*.
 
 - [x] Introduction
 - [x] Probability Distributions
